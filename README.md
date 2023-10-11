@@ -4,6 +4,11 @@ It is a repository where I store useful information about android automotive and
 
 ## Guidelines
 
+- [Learn Car App Library fundamentals](https://developer.android.com/codelabs/car-app-library-fundamentals#0)
+In this codelab you learn how to build distraction-optimized apps for Android Auto and Android Automotive OS using the Android for Cars App Library. 
+- [Build media apps for cars](https://developer.android.com/training/cars/media)
+This guide describes the required components of a MediaBrowserService and MediaSession that your app needs in order to work on Android Auto or Android Automotive OS. After you have completed the core media infrastructure, you can add support for Android Auto and add support for Android Automotive OS to your media app.
+
 ## Emulators
 
 Official documentation about setup and test with Android Automotive OS 
