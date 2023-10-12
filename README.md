@@ -31,3 +31,5 @@ This talk will focus primarily on how to build new apps or adapt existing Androi
 
 - [RadioTok](RadioTok)
 This project primary written how mobile aplication, but user interface adopted for running with android automative.
+- [Universal Android Music Player Sample](https://github.com/android/uamp)
+The repository contains example of audio media players that were adopted for different platforms. Audio media player adopted for Android Auto and Android Automotive
