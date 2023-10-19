@@ -35,3 +35,8 @@ This talk will focus primarily on how to build new apps or adapt existing Androi
 This project primary written how mobile aplication, but user interface adopted for running with android automative.
 - [Universal Android Music Player Sample](https://github.com/android/uamp)
 The repository contains example of audio media players that were adopted for different platforms. Audio media player adopted for Android Auto and Android Automotive
+
+## Community
+
+- [r/AndroidAuto](https://www.reddit.com/r/AndroidAuto/)
+Group on readdit. Most of posts about problems with Android Auto on different cars and different versions. Also it present main news about platform and main changes.
